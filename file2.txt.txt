@@ -1,0 +1,8 @@
+name = "Kacper"
+
+if (name == "Kacper"){
+
+Console.Writeline("Verden er så smukt")
+
+
+}
